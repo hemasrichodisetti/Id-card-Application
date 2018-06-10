@@ -1,0 +1,19 @@
+.span-for-errors{
+    display:none;
+    color:red;
+}
+input[type=text]{
+    position: absolute;
+    right: 250px;
+}
+#designation{
+    position: absolute;
+    right: 250px;
+}
+input[type=date]{
+    position: absolute;
+    right: 250px;
+}
+.input-group{
+    direction: block;
+}
